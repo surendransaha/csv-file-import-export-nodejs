@@ -1,0 +1,20 @@
+
+upload:
+--------
+http://localhost:8080/api/upload
+
+name -> file 
+
+
+Parse:
+-------
+http://localhost:8080/api/parse
+
+{
+  "template": "Hello, my name is <%name%>. I'm <%age%> years old.",
+  "data": {
+    "name": "TestName",
+    "age": 29
+  }
+}
+

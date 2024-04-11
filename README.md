@@ -3,7 +3,6 @@ backend application
 
 
 # how to run application
-npm install
 npm start
 
 # application screenshot

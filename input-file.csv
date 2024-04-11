@@ -1,0 +1,3 @@
+agentname,user_firstname,user_dob,user_address,user_ph,user_state,user_zipcode,user_email,user_gender,user_type,account_name,category_name,company_name,policy_number,policy_start_date,policy_end_date,policy_category
+Accounting/Finance,Kalai,1/1/1999,test address 1,9879879877,tamilnadu,678678,kalai@gmail.com,female,admin,Sales,marketing,ALP,GHH778,10/10/2023,10/10/2024,category one
+Advertising/Public Relations,kadhir,2/2/1999,test address 2,8978978977,tamilnadu,654321,kadir@gmail.com,male,manager,Sales,billing,SSA,HJJG990,11/21/2023,11/21/2024,category two
